@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xn/RHBK+lWrnTdzsmKy1XWqxu3R0XeJrzgCxsai7s2XGNaDzP6RpHM9Wu3pHTzuPsdBreYp6h423R9oOnBOXbA==",
+  "success": true,
+  "projectFilePath": "/home/victoraster/Documentos/www/csharp-projects/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/victoraster/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

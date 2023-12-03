@@ -1,0 +1,15 @@
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/victoraster/Documentos/www/csharp-projects/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
