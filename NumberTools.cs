@@ -25,4 +25,12 @@ public static class NumbersTools
         }
         return position;
     }
+    public static int CountEvenNumber(int[] numbers) {
+        var count = 0;
+        foreach(var number in numbers) {
+            if(number % 2 == 0) continue;
+                count++;
+        }
+        return count;
+    }
 }
